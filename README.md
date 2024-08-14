@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Segev</h1>
 <h3 align="center">A passionate developer</h3>
 
-![work-office](https://github.com/user-attachments/assets/3ac69967-92de-4e8c-af36-2b0c32592871)
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://github.com/user-attachments/assets/61d51c7a-b1d1-433b-a549-8c9988fcb3d0)
 
 
 
