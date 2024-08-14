@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **When I'm not coding, you can probably find me breaking or vibing to hip hop music. And hey, did you know breaking is now officially an Olympic sport?**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/segev-cohen2509/
+<h3 align="left">Connect with me:
 <p align="left">
 </p>
 
