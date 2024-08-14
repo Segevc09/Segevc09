@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Segev</h1>
 <h3 align="center">A passionate developer</h3>
+- 🎓 I'm a second year B.sc student in "HIT" (Holon Institute of Technology).
+
+- 👨‍💻 A passionate developer, always on the lookout for my next challenge.
 
 - 📫 How to reach me - **segevcohen98@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding, you can probably find me breaking or vibing to hip hop music. And hey, did you know breaking is now officially an Olympic sport?**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/segev-cohen2509/
 <p align="left">
 </p>
 
