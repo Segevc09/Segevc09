@@ -9,7 +9,7 @@
 
 - 👨‍💻 A passionate developer, always on the lookout for my next challenge.
 
-- 📫 How to reach me - **segevcohen98@gmail.com**
+- 📫 How to reach me - **segevco09@gmail.com**
 
 - ⚡ Fun fact - **When I'm not coding, you can probably find me breaking or vibing to hip hop music. And hey, did you know breaking is now officially an Olympic sport?**
 
