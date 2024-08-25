@@ -5,9 +5,9 @@
 
 
 
-- 🎓 I'm a second year B.sc student in "HIT" (Holon Institute of Technology).
-
 - 👨‍💻 A passionate developer, always on the lookout for my next challenge.
+
+- 🎓 I'm a second year B.sc student in "HIT" (Holon Institute of Technology).
 
 - 📫 How to reach me - **segevco09@gmail.com**
 
