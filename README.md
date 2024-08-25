@@ -15,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <img src="![LinkedIn picture](https://github.com/user-attachments/assets/3742ae22-ad1e-4a9e-8af9-87a2e35712db)"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
