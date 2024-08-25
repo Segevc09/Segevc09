@@ -14,7 +14,7 @@
 - ⚡ Fun fact - **When I'm not coding, you can probably find me breaking or vibing to hip hop music. And hey, did you know breaking is now officially an olympic sport?**
 
 <h3 align="left">Connect with me:</h3>
-![LinkedIn picture](https://github.com/user-attachments/assets/3742ae22-ad1e-4a9e-8af9-87a2e35712db)
+<img src="![LinkedIn picture](https://github.com/user-attachments/assets/468b5279-2487-44dc-a978-c89e763d3af5)"/>
 <p align="left">
 </p>
 
